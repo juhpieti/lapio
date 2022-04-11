@@ -4,3 +4,4 @@ kahvia
 mehua
 mandariineja
 päärynöitä
+maitoa
